@@ -1,0 +1,7 @@
+- Định nghĩa các collections:
+
+1. userChats = lưu trữ thông tin của tất cả các users đã từng chat với một user bất kỳ.
+-- Ví dụ: 
++) tài khoản admin đã chát với 5 người -> thì userChats của tài khoản admin sẽ lưu lại thông tin của 5 người đã từng chat trong document userChats của tài khoản admin.
+
+2. chats = lưu trữ toàn bộ cuộc trò chuyện giữa 2 tài khoản bất kỳ.
